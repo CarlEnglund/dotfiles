@@ -40,6 +40,10 @@ map <leader>pp :CtrlP<cr>
 map <leader>f <Plug>(easymotion-bd-w)
 map <Space> /
 map <c-space> ?
+map <leader>v <C-w><C-v>
+map <leader>s <C-w><C-s>
+map <leader>w <C-w><C-w>
+map <leader>q <C-w><C-q>
 
 let g:ctrlp_custom_ignore = 'node_modules\|^\.DS_Store\|^\.git\|^\.coffee'
 
