@@ -14,6 +14,10 @@ cask "visual-studio-code"
 cask "telegram"
 # 1Password
 cask "1password"
+# Spotify
+cask "spotify"
+# Discord
+cask "discord"
 # Official Amazon AWS command-line interface
 brew "awscli"
 # Distributed revision control system
