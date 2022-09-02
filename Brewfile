@@ -2,18 +2,18 @@ tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/cask-versions"
 tap "homebrew/core"
-# Neovim
-brew "neovim"
-# Collection of GNU find, xargs and locate
-brew "findutils"
 # Warp terminal
-brew "warp"
+cask "warp"
 # Firefox
-brew "firefox"
+cask "firefox"
 # Slack
-brew "slack"
+cask "slack"
 # Visual studio code
-brew "visual-studio-code"
+cask "visual-studio-code"
+# Telegram
+cask "telegram"
+# 1Password
+cask "1password"
 # Official Amazon AWS command-line interface
 brew "awscli"
 # Distributed revision control system
@@ -32,5 +32,7 @@ brew "tflint"
 brew "tree"
 # Internet file retriever
 brew "wget"
-# Curl
-brew "curl"
+# Neovim
+brew "neovim"
+# Collection of GNU find, xargs and locate
+brew "findutils"
