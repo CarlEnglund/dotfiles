@@ -40,3 +40,9 @@ brew "wget"
 brew "neovim"
 # Collection of GNU find, xargs and locate
 brew "findutils"
+# jq
+brew "jq"
+# Helm
+brew "helm"
+# Kustomize
+brew "kustomize"
